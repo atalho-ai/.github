@@ -13,4 +13,4 @@ Automatizamos processos como:
 
 Todos os repositórios são **privados** e apenas membros da equipe podem visualizá-los.
 
-Para mais informações, entre em contato com o nosso responsavel: [@bellujr](https://github.com/bellujr)
+Para mais informações, entre em contato com o nosso responsavel: [@bellujr](https://github.com/belluzzojr)
