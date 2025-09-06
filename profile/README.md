@@ -1,16 +1,16 @@
 # Atalho AI
 
-Bem-vindo ao **GitHub oficial da Atalho**! 🚀
+Welcome to the **official GitHub of Atalho**! 🚀
 
-A **Atalho** automatiza tarefas financeiras, conectando a **inteligência artificial** às ferramentas que os times financeiros realmente usam.  
+**Atalho** automates financial tasks by connecting **artificial intelligence** to the tools that finance teams actually use.
 
-Automatizamos processos como:  
-- Conciliação financeira  
-- Faturamento  
-- Pagamentos  
-- Categorização de despesas  
-- Geração de relatórios  
+We automate processes such as:  
+- Financial reconciliation  
+- Invoicing  
+- Payments  
+- Expense categorization  
+- Report generation  
 
-Todos os repositórios são **privados** e apenas membros da equipe podem visualizá-los.
+All repositories are **private** and only team members can access them.
 
-Para mais informações, entre em contato com o nosso responsavel: [@bellujr](https://github.com/bellujrb)
+For more information, please contact our lead: [@bellujr](https://github.com/bellujrb)
